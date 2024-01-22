@@ -1,0 +1,48 @@
+body {
+    background-color: #0a192f; 
+}
+
+.j-text-secondary{
+    color: #02c39a;
+}
+.j-text-terciary{
+    color: #7b9e89;
+}
+.j-text-yellowish{
+    color: #f0f3bd;
+}
+
+.secondary-background{
+    background-color: #f0f3bd;
+}
+
+.terciary-background{
+    background-color: #7b9e89;
+}
+
+.contact-me-button{
+    background-color: #02c39a;
+    color: white;
+}
+
+.skill-row {
+    margin-bottom: 1rem;
+}
+.skill-image {
+    width: 100%; /* Adjust the width as needed */
+}
+.skill-content {
+    padding-left: 15px;
+}
+
+.background-section {
+    
+    background-image: url('../images2/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.custom-font {
+    font-family: 'Source Sans 3', sans-serif;
+}
